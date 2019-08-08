@@ -28,11 +28,11 @@ See this video for a quick explanation
 https://www.dropbox.com/s/im1vivrjv98isub/Grainstation-C_config.mp4?dl=0
 
 */
-;;Path to sound files
-Sfile1 = "sounds/Maine_Shore.aif"
-Sfile2 = "sounds/Violin_BowBounce.aif"
-Sfile3 = "sounds/Rhodezart.aif" 
-Sfile4 = "sounds/Woodstock_Ice.aif"
+	;;Path to sound files
+Sfile1 = "sounds/Yellowstone_Geyser1.aif"
+Sfile2 = "sounds/Rhodezart.aif"
+Sfile3 = "sounds/Ecology1.aif" 
+Sfile4 = "sounds/Violin_BowBounce.aif"
 gSIRfile = "sounds/IR_StNicolaesChurch.wav" ; Reverb IR file	
 ;Sfile5 = "sounds/"
 ;Sfile6 = "sounds/"
@@ -915,7 +915,7 @@ e
   <g>255</g>
   <b>255</b>
  </bgcolor>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>button0</objectName>
   <x>43</x>
   <y>67</y>
